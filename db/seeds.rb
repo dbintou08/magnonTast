@@ -15,8 +15,8 @@ first_user = User.create!(
 )
 
 second_user = User.create!(
-  name: 'baba',
-  email: 'ba@ba.com',
+  name: 'neko',
+  email: 'neko@ex.com',
   password: 'password',
   password_confirmation: 'password',
   admin: false
